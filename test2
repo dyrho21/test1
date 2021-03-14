@@ -1,0 +1,299 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="" tvg-name="Astro Citra" tvg-logo="https://i.postimg.cc/kg69kdWm/Astro-Citra-HD.png" group-title="MALAYSIA",Astro Citra
+http://zalogitv.tech:8080/Aut0Multi-s3ssion/20202021/1724
+#EXTINF:-1 tvg-id="" tvg-name="Astro BOO" tvg-logo="https://i.postimg.cc/hGYXzpqZ/IMG-20201218-062026.jpg" group-title="MALAYSIA",Astro BOO
+http://zalogitv.tech:8080/Aut0Multi-s3ssion/20202021/1799
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MALAYSIA",Astro Ceria
+http://zalogitv.tech:8080/Aut0Multi-s3ssion/20202021/1800
+#EXTINF:-1 tvg-id="" tvg-name="Astro Warna" tvg-logo="https://cdn.macan.tv/img/astro_warna.png" group-title="MALAYSIA",Astro Warna
+http://zalogitv.tech:8080/Aut0Multi-s3ssion/20202021/1818
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ria " tvg-logo="https://cdn.macan.tv/img/astro_ria.png" group-title="MALAYSIA",Astro Ria 
+http://zalogitv.tech:8080/Aut0Multi-s3ssion/20202021/1819
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://cdn.macan.tv/img/astro_awani.png" group-title="MALAYSIA",Astro Awani
+http://zalogitv.tech:8080/Aut0Multi-s3ssion/20202021/1820
+#EXTINF:-1 group-title="Malaysia",Awani
+http://tv.wakds.xyz:8080/Deal/NoDeal/159
+#EXTINF:-1 tvg-id="" tvg-name="Astro Oasis" tvg-logo="https://cdn.macan.tv/img/astro_oasis.png" group-title="MALAYSIA",Astro Oasis
+http://zalogitv.tech:8080/Aut0Multi-s3ssion/20202021/1821
+#EXTINF:-1 group-title="Malaysia",Oasis
+http://tv.wakds.xyz:8080/Deal/NoDeal/166
+#EXTINF:-1 tvg-id="" tvg-name="Astro Prima" tvg-logo="https://cdn.macan.tv/img/astro_prima.png" group-title="MALAYSIA",Astro Prima
+http://zalogitv.tech:8080/Aut0Multi-s3ssion/20202021/1822
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="http://jiekou.wakds.xyz/logo/r_2798.png" group-title="Malaysia",TV1 
+http://tv.wakds.xyz:8080/Deal/NoDeal/149
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="http://jiekou.wakds.xyz/logo/r_2799.png" group-title="Malaysia",TV2
+http://tv.wakds.xyz:8080/Deal/NoDeal/150
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="http://jiekou.wakds.xyz/logo/r_2800.png" group-title="Malaysia",TV3
+http://tv.wakds.xyz:8080/Deal/NoDeal/151
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="http://jiekou.wakds.xyz/logo/r_2801.png" group-title="Malaysia",NTV7
+http://tv.wakds.xyz:8080/Deal/NoDeal/153
+#EXTINF:-1 tvg-id="8TV" tvg-name="TV8" tvg-logo="http://jiekou.wakds.xyz/logo/r_2802.png" group-title="Malaysia",TV8
+http://tv.wakds.xyz:8080/Deal/NoDeal/155
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="http://jiekou.wakds.xyz/logo/r_2803.png" group-title="Malaysia",TV9
+http://tv.wakds.xyz:8080/Deal/NoDeal/156
+#EXTINF:-1 tvg-id="7183" tvg-name="Al-Hijrah" tvg-logo="http://jiekou.wakds.xyz/logo/Hijrah.png" group-title="Malaysia",Al-Hijrah
+http://tv.wakds.xyz:8080/Deal/NoDeal/162
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Arena" tvg-logo="http://jiekou.wakds.xyz/logo/20200822074553994010011.png" group-title="Malaysia",Arena
+http://tv.wakds.xyz:8080/Deal/NoDeal/164
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO NAURA" tvg-logo="http://jiekou.wakds.xyz/logo/20200822000716098910014.png" group-title="Malaysia",Naura
+http://tv.wakds.xyz:8080/Deal/NoDeal/170
+#EXTINF:-1 tvg-id="" tvg-name="Bernama" tvg-logo="http://jiekou.wakds.xyz/logo/Bernama.png" group-title="Malaysia",Bernama
+http://tv.wakds.xyz:8080/Deal/NoDeal/160
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://jiekou.wakds.xyz/logo/HGTV.png" group-title="MOVIE & ENTERTAINMENT", HGTV
+http://tv.wakds.xyz:8080/Deal/NoDeal/194
+#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS ",beIN Sport 1	
+https://kemahkemingtv.xyz/stream/usee-bein1-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS ",beIN Sport 2		
+https://kemahkemingtv.xyz/stream/usee-bein2-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS ",Champion TV 1
+https://kemahkemingtv.xyz/stream/usee-champion1-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS ",Champion TV 1	
+https://kemahkemingtv.xyz/stream/usee-champion2-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 1" tvg-logo="http://jiekou.wakds.xyz/logo/r_2686.png" group-title="SPORTS ",Fox Sport 1	
+https://kemahkemingtv.xyz/stream/usee-foxsport1-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="6092" tvg-name="FOX Sport 2" tvg-logo="http://jiekou.wakds.xyz/logo/r_2687.png" group-title="SPORTS ",Fox Sport 2	
+https://kemahkemingtv.xyz/stream/usee-foxsport2-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORTS ",Fox Sport 3	
+https://kemahkemingtv.xyz/stream/usee-foxsport3-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="6178" tvg-name="博斯高球2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="SPORTS ",Golf	F
+https://kemahkemingtv.xyz/stream/usee-golfplus-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS ",Useesports 1	
+https://kemahkemingtv.xyz/stream/usee-useesport-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS ",Useesports 2	
+https://kemahkemingtv.xyz/stream/usee-useesports2-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="ass3" group-title="SPORTS" tvg-name="Astro Supersport 3" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="VIP SPORTS",Astro Supersport 3 
+http://zalogitv.tech:8080/Aut0Multi-s3ssion/20202021/1504
+#EXTINF:-1 tvg-id="ass1" group-title="SPORTS" tvg-name="Astro Supersport 1" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="VIP SPORTS",Astro Supersport 1 
+http://zalogitv.tech:8080/Aut0Multi-s3ssion/20202021/1502
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Arena" tvg-logo="http://jiekou.wakds.xyz/logo/20200822074553994010011.png" group-title="SPORTS",Arena
+http://tv.wakds.xyz:8080/Deal/NoDeal/164
+#EXTINF:-1 group-title="SPORTS ",Athelete Unlimted FS2
+http://tv.wakds.xyz:8080/Deal/NoDeal/3545
+#EXTINF:-1 group-title="SPORTS ",Athelete Unlimted FS2
+http://tv.wakds.xyz:8080/Deal/NoDeal/3546
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1" tvg-logo="http://jiekou.wakds.xyz/logo/r_2684.png" group-title="SPORTS ",Eleven Sport 1
+http://tv.wakds.xyz:8080/Deal/NoDeal/3547
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 2" tvg-logo="http://jiekou.wakds.xyz/logo/r_2685.png" group-title="SPORTS ",Eleven Sport 2
+http://tv.wakds.xyz:8080/Deal/NoDeal/3548
+#EXTINF:-1 group-title="SPORTS ",BT Sport ESPN
+http://tv.wakds.xyz:8080/Deal/NoDeal/3571
+#EXTINF:-1 group-title="SPORTS ",BT Sport 2
+http://tv.wakds.xyz:8080/Deal/NoDeal/3572
+#EXTINF:-1 group-title="SPORTS ",BT Sport 3
+http://tv.wakds.xyz:8080/Deal/NoDeal/3573
+#EXTINF:-1 group-title="SPORTS ",BT Sport 1
+http://tv.wakds.xyz:8080/Deal/NoDeal/3574
+#EXTINF:-1 group-title="SPORTS ",Sky Sport 2
+http://tv.wakds.xyz:8080/Deal/NoDeal/3575
+#EXTINF:-1 group-title="SPORTS ",Sky Sports 1
+http://tv.wakds.xyz:8080/Deal/NoDeal/3576
+#EXTINF:-1 group-title="SPORTS ",Sky Sports F1
+http://tv.wakds.xyz:8080/Deal/NoDeal/3577
+#EXTINF:-1 group-title="SPORTS ",Sky Sport 3
+http://tv.wakds.xyz:8080/Deal/NoDeal/3578
+#EXTINF:-1 group-title="SPORTS ",Sky Sport 4
+http://tv.wakds.xyz:8080/Deal/NoDeal/3579
+#EXTINF:-1 group-title="SPORTS ",Sky Sport 5
+http://tv.wakds.xyz:8080/Deal/NoDeal/3580
+#EXTINF:-1 group-title="SPORTS",Astro Sp1
+http://tv.wakds.xyz:8080/Deal/NoDeal/3581
+#EXTINF:-1 group-title="SPORTS",Astro Sp2
+http://tv.wakds.xyz:8080/Deal/NoDeal/3582
+#EXTINF:-1 group-title="SPORTS",Astro Sp3
+http://tv.wakds.xyz:8080/Deal/NoDeal/3583
+#EXTINF:-1 group-title="SPORTS",Astro Sp4
+http://tv.wakds.xyz:8080/Deal/NoDeal/3584
+#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png" group-title="SPORTS ",WWE
+http://tv.wakds.xyz:8080/Deal/NoDeal/3585
+#EXTINF:-1 tvg-id="" group-title="SERANTAU ",INDO SIAR	
+https://kemahkemingtv.xyz/stream/usee-indosiar-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="SERANTAU ",Insert	
+https://kemahkemingtv.xyz/stream/usee-insert-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="JAK.ID" tvg-logo="http://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="SERANTAU ",JakTV	
+https://kemahkemingtv.xyz/stream/usee-jaktv-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="SERANTAU ",JITV	
+https://kemahkemingtv.xyz/stream/usee-jitv-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="SERANTAU ",JTV	
+https://kemahkemingtv.xyz/stream/usee-jtv-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="KOM.ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="SERANTAU ",Kompas
+https://kemahkemingtv.xyz/stream/usee-kompastv-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="SERANTAU ",Net		
+https://kemahkemingtv.xyz/stream/usee-net-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="SERANTAU ",SCTV	
+https://kemahkemingtv.xyz/stream/usee-sctv-kemah-keming.m3u8
+EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="SERANTAU ",Trans7
+https://kemahkemingtv.xyz/stream/usee-trans7-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="SERANTAU ",TransTV	
+https://kemahkemingtv.xyz/stream/usee-tvedukasi-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="SERANTAU ",Celestial Movie
+https://kemahkemingtv.xyz/stream/usee-celestialmovie-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="SERANTAU",One HD	
+https://kemahkemingtv.xyz/stream/usee-sone-kemah-keming.m3u8
+#EXTINF:-1 tvg-ID="BBL.UK" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="SERANTAU ",TVN Movies		
+https://kemahkemingtv.xyz/stream/usee-tvnmovies-kemah-keming.m3u8
+#EXTINF:-1 tvg-ID="BBL.UK" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png" group-title="SERANTAU ",TVN	
+https://kemahkemingtv.xyz/stream/usee-tvn-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="KIDS ",Disney XD
+http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="KIDS ",Disney
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="KIDS ",Disney
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="KIDS ",Baby First
+https://kemahkemingtv.xyz/stream/usee-babyfirst-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/102.png" group-title="KIDS ",Boomerang	
+https://kemahkemingtv.xyz/stream/usee-boomerang-kemah-keming.m3u8
+#EXTINF:-1 tvg-ID=".ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="KIDS ",Cartoon Network	
+https://kemahkemingtv.xyz/stream/usee-cartoonnetwork-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="6148" tvg-name="Dreamworks" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/dreamworks.png" group-title="KIDS ",Dreamworks	
+https://kemahkemingtv.xyz/stream/usee-dreamworks-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="KIDS ",Duck TV	
+https://kemahkemingtv.xyz/stream/usee-ducktv-kemah-keming.m3u8	
+#EXTINF:-1 tvg-id="" group-title="KIDS ",Dunia Anak
+https://kemahkemingtv.xyz/stream/usee-duniaanak-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="KIDS ",Horee
+https://kemahkemingtv.xyz/stream/usee-horee-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="KIDS ",M Kidz
+https://kemahkemingtv.xyz/stream/usee-mykids-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="KIDS ",Nickelodeon		
+https://kemahkemingtv.xyz/stream/usee-nickelodeon-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="KIDS ",Nick Junior	
+https://kemahkemingtv.xyz/stream/usee-nickjr-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="KIDS",Astro Ceria
+http://zalogitv.tech:8080/Aut0Multi-s3ssion/20202021/1800
+#EXTINF:-1 group-title="KIDS ",DisneyXD
+http://tv.wakds.xyz:8080/Deal/NoDeal/4235
+#EXTINF:-1 tvg-id="7238" tvg-name="animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="KIDS ",Animax	
+https://kemahkemingtv.xyz/stream/usee-animax-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="KIDS ",Aniplus	
+https://kemahkemingtv.xyz/stream/usee-aniplus-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="6155" tvg-name="Hbo Family" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="MOVIE & ENTERTAINMENT",HBO FAMILY
+https://kemahkemingtv.xyz/stream/Go-FAMHD-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://jiekou.wakds.xyz/logo/r_2745.png" group-title="MOVIE & ENTERTAINMENT",HBO HD
+https://kemahkemingtv.xyz/stream/Go-HBOHD-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="6153" tvg-name="HBO Hits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="MOVIE & ENTERTAINMENT",HBO HITS	
+https://kemahkemingtv.xyz/stream/Go-HITSHD-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="6089" tvg-name="Cinemax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="MOVIE & ENTERTAINMENT",CINEMAX	
+https://kemahkemingtv.xyz/stream/Go-MAXHD-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red by HBO" tvg-logo="http://jiekou.wakds.xyz/logo/r_2540.png" group-title=" group-title="MOVIE & ENTERTAINMENT",RED BY HBO	
+https://kemahkemingtv.xyz/stream/Go-RED-kemah-keming.m3u8
+#EXTINF:-1 tvg-id=" group-title="MOVIE & ENTERTAINMENT",HBO SIGN	
+https://kemahkemingtv.xyz/stream/Go-SIGHD-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s26.postimg.cc/ajgw5ibk9/400x400_35fox_family_movies.jpg" group-title="MOVIE & ENTERTAINMENT",Fox_Family
+http://tv.wakds.xyz:8080/Deal/NoDeal/99
+#EXTINF:-1 tvg-id="BAX.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428258_ico.png" group-title="MOVIE & ENTERTAINMENT ",Blue Ant	
+https://kemahkemingtv.xyz/stream/usee-blueant-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="AXN.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="MOVIE & ENTERTAINMENT ",AXN
+https://kemahkemingtv.xyz/stream/usee-axn-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="BAX.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428258_ico.png" group-title="MOVIE & ENTERTAINMENT ",Blue Ant Extreme	
+https://kemahkemingtv.xyz/stream/usee-blueantextreme-kemah-keming.m3u8 
+#EXTINF:-1 tvg-name="304" tvg-id="CNX.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png" group-title="MOVIE & ENTERTAINMENT ",Cinema World	
+https://kemahkemingtv.xyz/stream/usee-cinemaworld-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="MOVIE & ENTERTAINMENT ",Dunia Lain	
+https://kemahkemingtv.xyz/stream/usee-dunialain-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="MOVIE & ENTERTAINMENT ",Flik	
+https://kemahkemingtv.xyz/stream/usee-flik-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="MOVIE & ENTERTAINMENT ",IMC
+https://kemahkemingtv.xyz/stream/usee-imc-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KiX HD" tvg-logo="http://jiekou.wakds.xyz/logo/20200822074509824210010.png" group-title="MOVIE & ENTERTAINMENT ",Kix	
+https://kemahkemingtv.xyz/stream/usee-kix-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="MOVIE & ENTERTAINMENT ",Lifetime	
+https://kemahkemingtv.xyz/stream/usee-lifetime-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="MOVIE & ENTERTAINMENT ",One HD	
+https://kemahkemingtv.xyz/stream/usee-sone-kemah-keming.m3u8
+#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="MOVIE & ENTERTAINMENT ",Thrill	
+https://kemahkemingtv.xyz/stream/usee-thrill-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="MOVIE & ENTERTAINMENT ",TV5Monde	
+https://kemahkemingtv.xyz/stream/usee-tv5monde-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="MOVIE & ENTERTAINMENT ",TVN	
+https://kemahkemingtv.xyz/stream/usee-tvn-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="MOVIE & ENTERTAINMENT ",TVN MOVIE 		
+https://kemahkemingtv.xyz/stream/usee-tvnmovies-kemah-keming.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="MOVIE & ENTERTAINMENT ",Warner	
+https://kemahkemingtv.xyz/stream/usee-warner-kemah-keming.m3u8	
+#EXTINF:-1 tvg-id="" group-title="MOVIE & ENTERTAINMENT ",ZBioskop
+https://kemahkemingtv.xyz/stream/usee-zbioskop-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="6152" tvg-name="HBO_HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="MOVIE & ENTERTAINMENT",HBO_HD
+http://tv.wakds.xyz:8080/Deal/NoDeal/94
+#EXTINF:-1 tvg-id="6153" tvg-name="HBO Hits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="MOVIE & ENTERTAINMENT",HBO_HITS
+http://tv.wakds.xyz:8080/Deal/NoDeal/96
+#EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="MOVIE & ENTERTAINMENT",FOX Action MOVIE 
+http://tv.wakds.xyz:8080/Deal/NoDeal/98
+#EXTINF:-1 group-title="MPD" tvg-logo="https://s26.postimg.cc/ajgw5ibk9/400x400_35fox_family_movies.jpg" group-title="MOVIE & ENTERTAINMENT",Fox_Family
+http://tv.wakds.xyz:8080/Deal/NoDeal/99
+#EXTINF:-1 tvg-id="BAX.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428258_ico.png" group-title="MOVIE & ENTERTAINMENT",Blue Ant Extreme
+http://tv.wakds.xyz:8080/Deal/NoDeal/3535
+#EXTINF:-1 tvg-id="FXX.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fx.png" group-title="MOVIE & ENTERTAINMENT",FX
+http://tv.wakds.xyz:8080/Deal/NoDeal/3838
+#EXTINF:-1 tvg-name="304" tvg-id="CNX.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png" group-title="MOVIE & ENTERTAINMENT",Cinema World
+http://tv.wakds.xyz:8080/Deal/NoDeal/148
+#EXTINF:-1 group-title="MOVIE & ENTERTAINMENT",TBS
+http://tv.wakds.xyz:8080/Deal/NoDeal/2771
+#EXTINF:-1 tvg-id="BAX.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428258_ico.png" group-title="MOVIE & ENTERTAINMENT",Blue Ant Extreme
+http://tv.wakds.xyz:8080/Deal/NoDeal/3535
+#EXTINF:-1 tvg-id="FXX.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fx.png" group-title="MOVIE & ENTERTAINMENT",FX
+http://tv.wakds.xyz:8080/Deal/NoDeal/3838
+#EXTINF:-1 group-title="MOVIE & ENTERTAINMENT",Hbo East
+http://tv.wakds.xyz:8080/Deal/NoDeal/3876
+#EXTINF:-1 group-title="MOVIE & ENTERTAINMENT",American Horrors
+http://tv.wakds.xyz:8080/Deal/NoDeal/3908
+#EXTINF:-1 group-title="MOVIE & ENTERTAINMENT",Sky greats
+http://tv.wakds.xyz:8080/Deal/NoDeal/4076
+#EXTINF:-1 group-title="MOVIE & ENTERTAINMENT",Gold
+http://tv.wakds.xyz:8080/Deal/NoDeal/4110
+#EXTINF:-1 group-title="MOVIE & ENTERTAINMENT",Syfy
+http://tv.wakds.xyz:8080/Deal/NoDeal/4111
+#EXTINF:-1 group-title="MOVIE & ENTERTAINMENT",Sky Greats
+http://tv.wakds.xyz:8080/Deal/NoDeal/4131
+#EXTINF:-1 group-title="MOVIE & ENTERTAINMENT",Sky Cinema
+http://tv.wakds.xyz:8080/Deal/NoDeal/4218
+#EXTINF:-1 tvg-name="304" tvg-id="Fli.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428153_ico.png" group-title="MOVIE & ENTERTAINMENT",&FLIX
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="305" tvg-id="Pri.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="MOVIE & ENTERTAINMENT",&PRIVE
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="NEWS AND DOCUMENTARY ",Antara
+https://kemahkemingtv.xyz/stream/usee-antara-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="CGD.News" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" tvg-id="" group-title="NEWS AND DOCUMENTARY ",CGTN Documentary	
+https://kemahkemingtv.xyz/stream/usee-cgtndocumentary-kemah-keming.m3u8	
+#EXTINF:-1, tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" tvg-id="" group-title="NEWS AND DOCUMENTARY ",Discovery Channel
+https://kemahkemingtv.xyz/stream/usee-disco-kemah-keming.m3u8
+#EXTINF:-1, tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" tvg-id="" group-title="NEWS AND DOCUMENTARY ",Metro TV	
+https://kemahkemingtv.xyz/stream/usee-metrotv-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="" group-title="NEWS AND DOCUMENTARY ",Nat Geo 
+https://kemahkemingtv.xyz/stream/usee-natgeo-kemah-keming.m3u8	
+#EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" tvg-id="" group-title="NEWS AND DOCUMENTARY ",Nat Geo People
+https://kemahkemingtv.xyz/stream/usee-natgeopeople-kemah-keming.m3u8	
+#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="NEWS AND DOCUMENTARY ",Nat Geo Wild
+https://kemahkemingtv.xyz/stream/usee-natgeowild-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="NEWS AND DOCUMENTARY",NatGeo Wild HD
+http://tv.wakds.xyz:8080/Deal/NoDeal/165
+#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="NEWS AND DOCUMENTARY ",History
+http://tv.wakds.xyz:8080/Deal/NoDeal/3648
+#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" tvg-id="" group-title="NEWS AND DOCUMENTARY ",History	
+https://kemahkemingtv.xyz/stream/usee-history-kemah-keming.m3u8
+#EXTINF:-1 tvg-id="6037" tvg-name="Investigation Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="NEWS AND DOCUMENTARY ",Investigation Discovery
+http://tv.wakds.xyz:8080/Deal/NoDeal/3851
+#EXTINF:-1 tvg-id="7100" tvg-name="ABC News" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="NEWS AND DOCUMENTARY ",ABC NEWS 
+http://tv.wakds.xyz:8080/Deal/NoDeal/3871
+#EXTINF:-1 tvg-id="717" tvg-name="Fox News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxNews.png" group-title=" group-title="NEWS AND DOCUMENTARY ",Fox NEWS 
+http://tv.wakds.xyz:8080/Deal/NoDeal/3882
+#EXTINF:-1 group-title="NEWS AND DOCUMENTARY ",Discovery turbo
+http://tv.wakds.xyz:8080/Deal/NoDeal/4075
+#EXTINF:-1 tvg-id="6165" tvg-name="Discovery science" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="NEWS AND DOCUMENTARY ",Discovery science
+http://tv.wakds.xyz:8080/Deal/NoDeal/4113
+#EXTINF:-1 group-title="NEWS AND DOCUMENTARY ",Discovery investigation
+http://tv.wakds.xyz:8080/Deal/NoDeal/4114
+#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="NEWS AND DOCUMENTARY ",Nat Geo Wild
+http://tv.wakds.xyz:8080/Deal/NoDeal/4122
+#EXTINF:-1 tvg-id="6165" tvg-name="Discovery science" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="NEWS AND DOCUMENTARY ",Discovery Science
+http://tv.wakds.xyz:8080/Deal/NoDeal/4229
+#EXTINF:-1 tvg-id="6037" tvg-name="Investigation Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="NEWS AND DOCUMENTARY ",Disc In
+http://tv.wakds.xyz:8080/Deal/NoDeal/4230
+#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="NEWS AND DOCUMENTARY ",Nat Geo Wild
+http://tv.wakds.xyz:8080/Deal/NoDeal/4231
+
+
+
+
+
+
